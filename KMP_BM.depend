@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540782532 source:e:\code_blocks\kmp_bm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
